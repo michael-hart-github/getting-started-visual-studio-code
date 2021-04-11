@@ -13,7 +13,7 @@ GitHub Desktop -> https://desktop.github.com/
 
 Visual Studio Code -> https://code.visualstudio.com/
 
-# Sources
+## Sources
 
 Video series -> https://code.visualstudio.com/docs/getstarted/introvideos
 

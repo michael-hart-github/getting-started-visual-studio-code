@@ -1,0 +1,71 @@
+Source
+
+https://code.visualstudio.com/docs/introvideos/basics
+
+Getting started with VS Code
+
+(Download it)
+
+(Open it)
+
+New File -> Do an intro -> Save -> File type extension (.py)
+
+Note the color of the code changing.
+
+**Note:** I recieved a prompt asking "Do you want ot install the recommended extensions for Python?"
+
+I chose install.
+
+Recieved error message saying Python wasn't installed. Need to install that before I can use the extension effectively.
+1. Download Pyton 3.9.4
+2. Install now
+3. Yes
+4. Close
+
+I'm closing VS Code then reopening
+
+Now re-opened
+
+Going to make second python file to see if it works.
+
+Kind of..."No python interpreter is selected. You need to select a python interpreter to enable features such as IntelliSense, linting, and debugging."
+1. Select Python interpreter
+2. Chose the one listed.
+3. Close and re-open again.
+
+Seems to be working now. ¯\_(ツ)_/¯ Back to the video...
+
+Status bar at bottom. Includes errors/warnings, line number, programming language. Neat.
+
+Left side is activity bar.
+1. File explorer
+2. Search
+3. Source control
+4. Run view (run and debug code)
+5. Extensions view (Manage and download extensions...like the Pyton one we just had to get!)
+
+View -> Command pallet (The "control center" for all actions in VS Code)
+
+On the welcome page, there's a thing that says "Tools and languages". That brings up the extensions view so you can customize VS Code to cover whatever language you want to use.
+
+Extensions provide support while coding. Auto complete, quick fixes, and formatting.
+
+Extensions **do not** include complilers. That's why we saw the issues before, prompting us to install Python.
+
+Compilers make your code a program...kind of.
+
+Keyboard shortcuts are a - get this - SHORTCUT to doing something!
+
+There's a button on the welcome page to setup all sorts of bindings and keymapping things. (Bindings & keymapping = fancy name for shortcut)
+
+There's a keyboard shortcut cheatsheet you can print off, from the welcome page.
+
+Color themes. Blah blah blah. Turn your potato into an onion.
+
+MULTI
+
+COURSE
+
+~~DRIFTING~~ I mean, EDITING!
+
+End.

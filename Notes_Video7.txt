@@ -1,0 +1,25 @@
+Source
+
+https://code.visualstudio.com/docs/introvideos/customize
+
+Keyboard shortcuts come with VS Code. Installing some extensions also add shortcuts to VS Code.
+
+Command Palette is one of the easiest ways to find shortcuts.
+
+Command palette = Ctrl+Shift+P
+
+Type go to file. It lists it as Ctrl+P
+
+File: save, Ctrl+S
+
+etc.
+
+File -> Pref -> Keyboard shortcuts to modify keyboard shortcuts. Neat.
+
+File -> Pref -> Settings to check on settings. Wowowowowowow.
+
+There's a difference between User and Workspace. User = All. Workspace = some. Depends on how things are opened and stuff.
+
+You can change the font size, which is nice, I guess.
+
+Don't forget to turn on sync setting. (profile icon, bottom left)

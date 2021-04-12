@@ -1,0 +1,83 @@
+Source
+
+https://code.visualstudio.com/docs/introvideos/codeediting
+
+Code editing in Visual Studio Code
+
+Covering open folder, create a new file, and use editing features.
+
+Hit open folder
+
+Choose a folder
+
+Folders opened in VS Code will be organized in a logical manner. You can go to different areas through Explorer (top left)
+
+This tutorial uses Node.js
+
+VS Code supports JavaScript, TypeScript, and Node.js. Super.
+
+See if you have Node.js installed by...
+
+Go to command prompt
+
+node --version
+
+'node' is not recognized as an internal or external command,
+operable program or batch file.
+
+https://nodejs.org/en/
+
+right click politcal ad, block
+
+download LST
+
+run
+
+next, next next, next
+
+Auto install (This installs Chocolately, and some other software)
+
+Install
+
+cmd prompt pops up
+
+close all open programs
+
+went through the install thing. Had to hit enter a few times.
+
+Install runs for like, 10 minutes.
+
+Saw some error messages. Copy/pasted all of the info into a txt file for reference. There was some kind of issue with Python 3. I think maybe it was trying to "upgrade" to an older version of Python? I don't know.
+
+open command prompt
+
+node --version
+
+v14.16.1
+
+In VS Code -> New file
+
+name it apps.js
+
+var msg = "Hello, world!"
+
+after you type in this next line, you should see IntelliSense pop up
+
+console.log(msg)
+
+same for typing...
+
+msg.
+
+To automatically format code
+
+Shift+alt+F
+
+There is an autosave function. File -> Auto save (it's above preferences)
+
+Open integrated terminal, view -> terminal
+
+Go to the folder that your apps.js file is in.
+
+node app.js, enter
+

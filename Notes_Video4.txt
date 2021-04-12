@@ -1,0 +1,19 @@
+Source
+
+https://code.visualstudio.com/docs/introvideos/extend
+
+https://www.youtube.com/watch?v=SKcZ3cwX8lA
+
+For some reason, it's on the VS Code website, but they link to YouTube. I guess they can't decide which platform they want to host their videos on.
+
+Anyway, extensions. Extensions help specialize how VS Code operates for your specific setup.
+
+The demands of a dumptruck driver are not the same as a racecar driver, or an office drone.
+
+Color theme. Who cares.
+
+Ctrl+shift+x to get to the extensions page.
+
+Use @ to sort by say, number of installs. You can also use it for more useful things like @category:"whatever" to find something for your niche.
+
+If you make a file hello.java, you get notified to install java. Do not install java.

@@ -1,0 +1,19 @@
+Source
+
+https://code.visualstudio.com/docs/introvideos/versioncontrol
+
+Using git and VS Code integration for version control.
+
+Modified lines show blue to the right of line number
+
+New lines show green to the right of line number
+
+A red arrow points to where lines were removed
+
+Source control (Ctrl+shift+G) shows how many files have been changed.
+
+Select a file in source control and you can see what kinds of changes have taken place.
+
+In the area that says "Changes" there are hidden icons that can Disguard all changes, or stage all changes.
+
+After hitting stage changes, put in the message box and hit the checkmark button (Commit)

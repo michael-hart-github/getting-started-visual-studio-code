@@ -1,0 +1,32 @@
+Source
+
+https://code.visualstudio.com/docs/introvideos/debugging
+
+The wonderful world of debugging
+
+Covering run view, debugging features, and setting "a break point".
+
+Unidentified program
+
+"A sample javascript express app"
+
+I see "Express-demo-app". Not sure where it's from.
+
+You need node.js to run node.js. Who would have thunk it!
+
+Ctrl+shift+D to go to Run view
+
+(If we had access to what she's referencing) Hit F5
+
+VS code attmepts to run the program. If you see a dropdown, you have to choose from the menu option. You would choose node.js
+
+For custom debugging, create a launch configuration.
+
+Gear icon (top left area) -> choose your debugger (node.js) -> vs code makes a launch.json file to a json folder.
+
+Hit add configuration button.
+
+The various parts of your program, and some debugging areas, are in the debugging view. You can filter some of it out with the "overflow menu" by the gear icon.
+
+Breakpoints stop a program at a specific point while executing.
+

@@ -1,0 +1,7 @@
+Source
+
+https://code.visualstudio.com/docs/introvideos/configure
+
+This covers the INCREDIBLY IMPORTANT topic of...themes. Gotta make that IDE pretty, yo'!
+
+Eh...the icons themes thing sounds slightly more important. As long as the IDE has a dark mode, I'm happy. The icons, I can see being a bit more important under certain circumstances.
